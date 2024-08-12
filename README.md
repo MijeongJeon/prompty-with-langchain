@@ -1,5 +1,6 @@
 # Enhancing Prompt Engineering with Prompty and LangChain RunnableBranch
-This repository includes resources from the presentation at AOAI Dev Day in Tokyo.
+This repository includes resources from the presentation at AOAI Dev Day in Tokyo.  
+[AOAI DevDay](https://aoai-devday.com)
 
 ## Overview
 Learn how to boost prompt engineering efficiency using Prompty and LangChain. 
