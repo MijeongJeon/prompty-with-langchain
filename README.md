@@ -12,7 +12,7 @@ Prompty, introduced at Microsoft Build 2024, is an open-source, language-agnosti
 * **Tooling Integration**: Autocompletion, syntax highlighting, code generation, and more.
 * **Runtime Support**: Compatible with VS Code, Semantic Kernel, and LangChain (Python/C#).
   
-<img src="https://www.dropbox.com/scl/fi/1u85hztllnjazjg9smlrt/prompty.png?rlkey=st1ki7e4ilnxmnpt9ah8naiav&dl=0
+<img src="https://www.dropbox.com/scl/fi/1u85hztllnjazjg9smlrt/prompty.png?rlkey=st1ki7e4ilnxmnpt9ah8naiav&raw=1
 " alt="Prompty Screen"/>
 
 ## Quick Start
